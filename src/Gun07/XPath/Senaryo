@@ -1,0 +1,44 @@
+1- https://www.saucedemo.com/  sitesini açın
+2- login işlemini yapınız.
+   //input[@id='user-name']
+   //input[@id='password']
+   //input[@id='login-button']
+
+3- Sauce Labs Backpack  a tıklatın ve sepete ekletin.
+   //div[text()='Sauce Labs Backpack'] veya //*[text()='Sauce Labs Backpack']
+   //button[@id='add-to-cart-sauce-labs-backpack']
+
+4- Sonra geri dönün
+   //button[text()='Back to products']
+
+5- Sauce Labs Bolt T-Shirt  a tıklatın ve sepete ekleyin.
+   //div[text()='Sauce Labs Bolt T-Shirt']
+   //button[text()='Add to cart']
+
+6- sepete tıklatın
+   //div[@id='shopping_cart_container']
+
+7- CheckOut a tıklatın
+   //button[@id='checkout']
+
+
+
+8- kullanıcı bilgilerini doldurup Continue ya tıklatın
+   //*[@id='first-name'] veya //input[@id='first-name']
+   //*[@id='last-name']
+   //*[@id='postal-code']
+   //input[@id='continue']
+
+9- Burada her bir eşyanın ücretlerinin toplamının aşağıdaki
+Item total e eşit olup olmadığını Assert ile test ediniz.
+
+(//div[@class='inventory_item_price'])[1]
+(//div[@class='inventory_item_price'])[2]
+//div[@class='summary_subtotal_label']
+
+
+[^\\d.] -> sayı ve nokta dışındakileri sil
+[^0-9.] -> sayı ve nokta dışındakileri sil
+
+Interview sorusu:
+Absolute xpath ve relative xpath arasındaki fark

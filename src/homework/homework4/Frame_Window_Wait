@@ -1,0 +1,119 @@
+1-
+Bu web sitesine gidiniz. [http://demo.guru99.com/test/guru99home/]
+(http://demo.guru99.com/test/guru99home/)
+**iFrame will not show if you have adBlock extension enabled**
+yazısının altındaki görsele tıklayınız.
+İkinci penceredeki Python'a tıklayıız.
+URL'i alınız. (URL1)
+URL1, [https://www.guru99.com/python-tutorials.html](https://www.guru99.com/python-tutorials.html)  ile eşit olmalıdır.
+###
+
+
+
+2-
+Bu websitesine gidiniz.   [https://chercher.tech/practice/frames]
+(https://chercher.tech/practice/frames)
+Topic'e herhangi bir şey yazınız.
+ **Inner Frame Check box'**a tıklayınız.
+Animal seçiniz.
+
+3-
+Bu websitesine gidiniz.   [https://chercher.tech/practice/frames](https://chercher.tech/practice/frames)
+Topic'e herhangi bir şey yazınız.
+ **Inner Frame Check box'**a tıklayınız.
+Animal seçiniz.
+
+
+
+4-
+Bu web sitesine gidiniz.   [https://www.seleniumeasy.com/test/basic-select-dropdown-demo.html]
+(https://www.seleniumeasy.com/test/basic-select-dropdown-demo.html)
+Select a day dropdown'ından rastgele bir seçenek seçiniz.
+5 kere wednesday seçtikten sonra döngüyü durdurun.
+Kaç kere Wednesday seçtiğinizi yazdırınız.
+Sonuç 5 olmalıdır.
+
+5-
+Bu web sitesine gidiniz. [https://www.seleniumeasy.com/test/jquery-download-progress-bar-demo.html]
+(https://www.seleniumeasy.com/test/jquery-download-progress-bar-demo.html)
+Start Download buttonuna tıklayınız. (Hiç bir şey indirmeyecektir. Burası bir test sitesi.)
+İndirme tamamlandıktan sonra "**File Download Complete!**" yazısını görüntülenecektir.
+Bu yazıyı yazdırınız.
+Not: Thread Sleep kullanmayınız.
+
+6-
+Bu websitesine gidiniz. [https://www.seleniumeasy.com/test/bootstrap-download-progress-demo.html]
+(https://www.seleniumeasy.com/test/bootstrap-download-progress-demo.html)
+Download'a tıklayınız.
+%100 olduğunu görün.
+Bu %100 yazısını yazdırınız.
+Not: Threat sleep kullanmayınız.
+
+7-
+Bu websitesine gidiniz. [https://business.twitter.com/en/solutions-new.html]
+(https://business.twitter.com/en/solutions-new.html)
+Sayfanın title(başlık)ını elde ediniz.(title1)
+Developer blog'a tıklayınız.
+Saydanın title'ını elde ediniz. (title2)
+Title1 ve title2 aynı olmamalıdır.
+Mevcut sayfayı kapatınız.
+Sayfanın title'ını elde ediniz.
+Sayfanın title'ını yazdırınız. (title3)
+Title1 ve title3 aynı olmalıdır.
+
+8-
+Navigate to  https://business.twitter.com/en/solutions-new.html
+Get the title of the page (title1)
+Click on [Business blog](https://blog.twitter.com/small-business)
+Get the title of the page (title 2)
+Title 1 and title 2 should NOT  be equal
+Close the current page
+Get the title of the page
+Print the title of the page (title 3)
+Title 1 and Title 3 should be equal
+
+9-
+
+Bu web sitesine gidiniz.  [https://www.naukri.com/](https://www.naukri.com/)
+Services'a tıklayınız.
+Looking for  a promotion? a tıklayınız.
+
+URL'i elde ediniz ve yazdırınız. (url1)
+
+Sonuç bu olmalıdır. [https://resume.naukri.com/articles/how-to-get-a-promotion/?fftid=homepage_desk_rev](https://resume.naukri.com/articles/how-to-get-a-promotion/?fftid=homepage_desk_rev)
+
+İlk ve ikinci sayfaları kapatınız.
+
+URL'i elde ediniz.
+
+Bu URL'yi yazdırınız. (url2)
+
+Eğer url1 ve url2 aynı ise
+
+true yazdırınız.
+
+Eğer url1 ve url2 eşit değil ise
+
+false yazdırınız.
+
+Sonucunuz true olmalıdır.
+
+Not: Eğer sonucunuz false çıkıyorsa kodunuzu değiştirmelisiniz.
+
+
+
+10-
+
+Bu web sitesine gidiniz. [http://the-internet.herokuapp.com/windows](http://the-internet.herokuapp.com/windows)
+URL'yi alınız. (URL1)
+Click here buttonuna tıklayınız.
+
+URL'yi alınız. (URL2)
+
+URL1 ve URL2 aynı olmamalıdır.
+
+İkinci pencereyi kapatınız.
+
+İlk penceredeki URL'i elde edin. (URL3)
+
+URL1 ve URL3 aynı olmalıdır.

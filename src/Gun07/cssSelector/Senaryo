@@ -1,0 +1,21 @@
+   1- https://formsmarts.com/form/yu?mode=h5 sitesini açın
+   2- Business i çekleyin.   id="u_0kR_4586_0"
+    veya input[id$='_4586_0'] biten (ilk karakterler zaman içinde
+    değiştiği için biten kullansak daha iyi)
+
+   3- discover XYZ ye tıklatın ve online Advertising i seçin
+      id="u_0kR_4588"
+      option[value='Online Advertising']
+
+   4- Every day i seçin  input id="u_0kR_89585_0"
+   5- Good u seçin input id="u_0kR_4589_0"
+
+   6- using XYZ yi tıklatın ve 3.seçeneği seçin
+   select id="u_0kR_4597" tıklat
+   I'm using XYZ for a month or more -> seç
+  option[value='I'm using XYZ for a month or more'] bu şekildwe neden bulamadı?
+  çünkü cümlenin içinde de tırnak old için
+
+   "select[id$='_4597'] > :nth-child(4)"
+   id="u_57E_4597"
+   select[id='u_57E_4597']
